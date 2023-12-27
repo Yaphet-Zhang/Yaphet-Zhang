@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'am Yaphet! 👋
+
+I have strong curiosity and passion for various AI technologies.
+
+
 
 <!--
 **Yaphet-Zhang/Yaphet-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
