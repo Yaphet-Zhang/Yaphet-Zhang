@@ -10,9 +10,13 @@ Computer Vision, Machine Learning, Deep Learning, Healthcare & Robotics.
 
 ### Please contact me for anything!
 Email: 
+
 zhangbowen930303@gmial 
+
 d2223001@s.konan-u.ac.jp 
+
 bowen.zhang@datasection.co.jp 
+
 zhang.bowen@lafool.co.jp
 
 [Google Scholar](https://scholar.google.com/citations?user=hOvKhH4AAAAJ&hl=en)
