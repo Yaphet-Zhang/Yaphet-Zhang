@@ -9,7 +9,7 @@ In addition, I am participating in project internships at [Datasection Inc.](htt
 Computer Vision, Machine Learning, Deep Learning, Healthcare & Robotics.  
 
 ### Please contact me for anything!
-Email: 
+Email:  
 zhangbowen930303@gmail.com   
 d2223001@s.konan-u.ac.jp  
 bowen.zhang@datasection.co.jp    
