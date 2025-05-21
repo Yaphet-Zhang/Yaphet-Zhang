@@ -4,7 +4,7 @@ I have strong curiosity and passion for various AI technologies.
 ### Intro
 I received my B.Eng. for automotive engineering@[Dalian University of Science and Technology](https://www.dlust.edu.cn/); M.Eng. and D.Eng. for artificial intelligence@[Konan University](https://www.konan-u.ac.jp/english/). During the graduate school, I developed a safety assistance system for elderly drivers using mobility scooters@[A Post-Installable Safety Assistance System for Mobility Scooters in Residential Areas](https://konan-u.repo.nii.ac.jp/records/2000844).
 
-In addition, I am participating in project internships@[Datasection Inc.](https://www.datasection.co.jp/en) and @[Lafool Inc.](https://www.lafool.co.jp/), which are dedicated to the research of mental health analysis and epilepsy analysis, respectively. Currently, I'm working on SDV(Software Defined Vehicle)-related software development@[Honda Motor Co., Ltd](https://global.honda/en/).
+In addition, I am participating in project internships @[Lafool Inc.](https://www.lafool.co.jp/) and @[Datasection Inc.](https://www.datasection.co.jp/en), which are dedicated to the research of mental health analysis and epilepsy analysis, respectively. Currently, I'm working for SDV(Software Defined Vehicle)-related development@[Honda Motor Co., Ltd](https://global.honda/en/).
 
 ### Interested in
 Computer Vision, Machine Learning, Deep Learning, Robotics, Software Defined Vehicle and Healthcare .  
